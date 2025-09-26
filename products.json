@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Bawang Putih Cimahi - 1kg",
+    "price": 48000,
+    "oldPrice": 60000,
+    "discount": 20,
+    "rating": 4.8,
+    "image": "/images/garlic.png"
+  },
+  {
+    "id": 2,
+    "name": "Terong Sukabumi - 1kg",
+    "price": 9000,
+    "oldPrice": 12000,
+    "discount": 25,
+    "rating": 4.5,
+    "image": "/images/eggplant.png"
+  },
+  {
+    "id": 3,
+    "name": "Bayam Bandung - 1 ikat",
+    "price": 7000,
+    "oldPrice": 10000,
+    "discount": 30,
+    "rating": 4.6,
+    "image": "/images/spinach.png"
+  },
+  {
+    "id": 4,
+    "name": "Garam Meja 1kg",
+    "price": 18000,
+    "oldPrice": 20000,
+    "discount": 10,
+    "rating": 4.2,
+    "image": "/images/salt.png"
+  }
+]

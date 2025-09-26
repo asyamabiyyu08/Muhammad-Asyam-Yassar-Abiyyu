@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Sayur-sayuran",
+    "icon": "🥬"
+  },
+  {
+    "id": 2,
+    "name": "Minuman dan Susu",
+    "icon": "🧃"
+  },
+  {
+    "id": 3,
+    "name": "Minyak dan bumbu",
+    "icon": "🫙"
+  },
+  {
+    "id": 4,
+    "name": "Buah-buahan",
+    "icon": "🍎"
+  },
+  {
+    "id": 5,
+    "name": "Protein hewani",
+    "icon": "🥩"
+  },
+  {
+    "id": 6,
+    "name": "Beras dan Bijian",
+    "icon": "🌾"
+  }
+]
